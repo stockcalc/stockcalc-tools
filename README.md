@@ -16,6 +16,16 @@
 - [CAGR Calculator](https://stockcalc.in/calculator/cagr) - Compound Annual Growth Rate
 - [Step-Up SIP](https://stockcalc.in/calculator/step-up-sip) - Increasing SIP calculator
 
+### 🤖 AI & Analysis Tools
+* [Stock Score by AI](https://stockcalc.in/calculator/stock-score) - Fundamental analysis powered by AI
+* [Stock Average Calculator](https://stockcalc.in/calculator/stock-average) - Precision averaging for traders
+* [Profit/Loss Calculator](https://stockcalc.in/calculator/profit-loss) - Net P&L with all charges
+
+### 📊 Investment & Tax (FY 2025-26)
+* [SIP Calculator](https://stockcalc.in/calculator/sip) - Monthly investment returns
+* [Income Tax Calculator](https://stockcalc.in/calculator/income-tax) - Updated for latest tax slabs
+* [Gratuity Calculator](https://stockcalc.in/calculator/gratuity) - Plan your career transitions
+
 ### Stock Market Tools
 - [Stock Average Calculator](https://stockcalc.in/calculator/stock-average) - Average down calculator
 - [Profit/Loss Calculator](https://stockcalc.in/calculator/profit-loss) - Trade P&L with charges
