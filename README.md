@@ -82,15 +82,14 @@ Perfect for:
 | Feature | STOCKCALC.IN | Others |
 |---------|--------------|--------|
 | **Price** | Free Forever | Freemium/Paid |
-| **Ads** | Zero | Intrusive |
 | **Signup** | Not Required | Required |
 | **Calculators** | 25+ | 5-10 |
 | **Live Data** | ✅ NSE/BSE | ❌ |
 | **Mobile** | Fully Optimized | Basic |
 
 ## 📱 Screenshots
+<img width="1920" height="887" alt="image" src="https://github.com/user-attachments/assets/94862caa-ce6c-4141-9823-366e4d77215b" />
 
-[Add screenshots here]
 
 ## 🤝 Contributing
 
