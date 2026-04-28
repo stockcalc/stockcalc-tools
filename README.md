@@ -256,7 +256,8 @@ Active NSE F&O trader specializing in directional Nifty 50 and Bank Nifty option
 
 - **Website:** [stockcalc.in](https://stockcalc.in)
 - **Email:** support@stockcalc.in
-- **Twitter/X:** [@stockcalcin](https://twitter.com/stockcalcin)
+- **Twitter/X:** [@stockcalc_in](https://twitter.com/stockcalc_in)
+- **Threads:** [@stockcalc_in](https://www.threads.com/@stockcalc_in)
 - **Author:** [Mahavir Hirani](https://stockcalc.in/mahavir-hirani)
 
 ---
